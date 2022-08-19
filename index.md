@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "shijiangsun.github.io"
+title: "shijiang.ml"
 categories: jekyll
 description: This is a note with markdown
 ---
